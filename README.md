@@ -1,2 +1,2 @@
-# PurpleSquishFace.github.io
-Personal Portfolio Website
+# Personal Portfolio Website
+Visit at [hartnell.dev](https://hartnell.dev/)
